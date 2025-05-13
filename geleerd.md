@@ -5,7 +5,7 @@ Om eerlijk te zijn, had ik nooit gepland om dit stukje code te schrijven, maar n
 
 Na heel veel moeite (het duurde eigenlijk ongeveer 5 minuten zonder al dat zweet), eindigde ik met dit leuke kleine codefragment. Toen realiseerde ik me dat ik meer dan een jaar de verkeerde softwareontwikkelingscarrière had gekozen.
 
-Terugkijkend heb ik mijn vier favoriete carrièrepaden als (front-end) softwareontwikkelaar:
+Terugkijkend heb ik mijn vier favoriete carrièrepaden als (front-end) softwareontwikkelaar gekozen:
 
 	1. Backend (Web Development)
 	2. Automatisering (Server-side scripting)
